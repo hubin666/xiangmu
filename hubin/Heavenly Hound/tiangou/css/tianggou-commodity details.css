@@ -1,0 +1,552 @@
+body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,fieldset,legend,input,form{margin:0;padding:0}
+ul li{list-style: none;}
+a{text-decoration: none;}
+#box1{
+	width: 100%;
+	height: 76px;
+	background: url(../images/images1/10.jpg) repeat-x;
+}
+#box .box-1{
+	width: 980px;
+	height: 73px;
+	margin: 0 auto;
+	border-bottom: 3px solid #cc0003;
+}
+#box .box-2{
+	width: 337px;
+	height: 76px;
+	float: left;
+}
+#box .ul1{
+	width: 77px;
+	float: left;
+}
+#box .ul1 img{
+	margin-top: 8px;
+}
+#box .ul2{
+	float: left;
+}
+#box .ul2 p{
+	font-size: 12px;
+	font-family: "宋体";
+	padding-top: 7px;
+	height: 23px;
+	line-height: 23px;
+}
+#box .ul2 h3{
+	font-size: 16px;
+	font-family: "微软雅黑";
+	padding: 5px 0px 0px 6px;
+	height: 29px;
+	line-height: 29px;
+}
+#box .box-3{
+	width: 643px;
+	height: 76px;
+	float: left;
+}
+#box .box-3 .box-4{
+	height: 30px;
+	padding-top: 7px;
+	padding-left: 56px;
+}
+.box-4 .ul3{
+	width: 65px;
+	height: 24px;
+	float: left;
+}
+.box-4 .ul3 img{
+	width: 65px;
+	height: 24px;
+}
+.box-4 .ul4{
+	font-size: 12px;
+	float: left;
+	line-height: 24px;
+	padding-left: 15px;
+}
+.box-4 .ul4 a{
+	color: #d19f6f;
+	padding: 0 3px;
+}
+.box-4 .ul4 span{
+	width: 18px;
+	height: 18px;
+	display: block;
+	background: url(../images/images1/3.gif) no-repeat -253px 0px;
+	float: left;
+	margin-top: 3px;
+}
+.box-4 .ul5{
+	float: left;
+	padding-left: 10px;
+}
+#but1{
+	width: 48px;
+	height: 23px;
+	background: url(../images/images1/3.gif) no-repeat -2px -28px;
+	outline: none;
+	border: 0px;
+	cursor: pointer;
+}
+#but2{
+	width: 48px;
+	height: 23px;
+	background: url(../images/images1/3.gif) no-repeat -52px -28px;
+	outline: none;
+	border: 0px;
+	cursor: pointer;
+}
+.box-5{
+	width: 100%;
+	height: 25px;
+	margin-top: 11px;
+}
+.box-5 .ul6{
+	width: 251px;
+	height: 25px;
+	background: url(../images/images1/3.gif) no-repeat;
+	float: left;
+}
+.box-5 .ul7{
+	width: 392px;
+	height: 25px;
+	background: url(../images/images1/3.gif) repeat-x 0px -220px;
+	float: left;
+}
+.ul7 h3{
+	width: 36px;
+	height: 20px;
+	background: url(../images/images1/16.png) no-repeat;
+	margin-top: 5px;
+	cursor: pointer;
+	float: left;
+}
+.ul7 p{
+	width: 3px;
+	height: 18px;
+	background: url(../images/images1/11.png) no-repeat;
+	margin-top: 5px;
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.ul7 h4{
+	width: 58px;
+	height: 20px;
+	background: url(../images/images1/12.png) no-repeat;
+	margin-top: 5px;
+	cursor: pointer;
+	float: left;
+}
+.ul7 form{
+	position: relative;
+}
+.ul7 form h5{
+	width: 168px;
+	height: 21px;
+	float: left;
+	background: url(../images/images1/3.gif) no-repeat -137px -106px;
+	position: absolute;
+	left: 105px;
+	top: 3px;
+}
+.ul7 .tex{
+	width: 100px;
+	height: 17px;
+	float: left;
+	position: absolute;
+	left: 126px;
+	top: 4px;
+	z-index: 2;
+	border: none;
+	outline: none;
+}
+.ul7 .sub{
+	width: 40px;
+	height: 16px;
+	float: left;
+	position: absolute;
+	left: 231px;
+	top: 5px;
+	z-index: 2;
+	cursor: pointer;
+	border: none;
+	outline: none;
+}
+/*
+ 内容部分
+ * */
+    #box2{
+    	width: 100%;
+    	height: 524px;
+    }
+#box2 .box2-1{
+	width: 980px;
+	height: 520px;
+	margin: 0 auto;
+}
+.img1{
+	width: 980px;
+	height: 87px;
+}
+.box2-3{
+	width: 980px;
+	height: 433px;
+	margin: 0 auto;
+}
+.box2-4{
+	width: 485px;
+	height: 433px;
+	float: left;
+	background-color: #f2ecea;
+}
+#ul8{
+	width: 100px;
+	height: 433px;
+	float: left;
+}
+#ul8 li{
+	width: 100px;
+	height: 100px;
+	margin-top: 7px;
+	margin-left: 5px;
+}
+#ul8 img{
+	width: 100px;
+	height: 100px;
+}
+#box3{
+	width: 365px;
+	height: 380px;
+	float: left;
+	margin: 10px;
+	margin-top:23px;
+	position: relative;
+}
+#box3 img{
+	width: 365px;
+	height: 380px;
+	
+}
+#box4{
+	width: 100px;
+	height: 100px;
+	background: rgba(29,32,136,0.5);
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+}
+#box5{
+	overflow: hidden;
+	width: 200px;
+	height: 200px;
+	background: rgba(200,15,221,0.3);
+	position: absolute;
+	top: 250px;
+	left: 720px;
+	display: none;
+}
+#box6{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.box2-5{
+	width: 495px;
+	height: 433px;
+	float: left;
+}
+.box2-5 h5{
+	font-size: 16px;
+	margin-top: 40px;
+	margin-left: 10px;
+}
+.box2-5 p{
+	font-size: 26px;
+	font-family: "微软雅黑";
+	color: #d10000;
+	margin-top: 20px;
+	margin-left: 10px;
+	border-bottom: 1px solid #CCCCCC;
+}
+.box2-5 p s{
+	font-size: 12px;
+	color: #000000;
+	margin-left: 20px;
+}
+.box2-6{
+	width: 470px;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 20px;
+	background-color: #f2ecea;
+}
+.box2-7{
+	width: 235px;
+	height: 100px;
+	float: left;	
+}
+.box2-7 ul{
+	width: 235px;
+	height: 100px;
+}
+.box2-7 li{
+	font-size: 14px;
+	padding: 10px 0px 0px 15px;
+}
+.box2-8{
+	width: 235px;
+	height: 100px;
+	float: left;
+	font-size: 14px;	
+}
+.box2-8 div{
+	margin-top: 10px;
+}
+.box2-8 #a{
+	width: 24px;
+	height: 20px;
+	display: block;
+	background: url(../images/images1/19.jpg) no-repeat;
+	float: right;
+	margin-right: 100px;
+}
+.box2-8 #a1{
+	width: 21px;
+	height: 20px;
+	display: block;
+	background: url(../images/images1/20.jpg) no-repeat;
+	float: right;
+}
+.box2-8 #a2{
+	width: 21px;
+	height: 20px;
+	display: block;
+	background: url(../images/images1/20.jpg) no-repeat;
+	float: right;
+}
+.box2-8 #a3{
+	width: 24px;
+	height: 20px;
+	display: block;
+	background: url(../images/images1/19.jpg) no-repeat;
+	float: right;
+}
+
+.box2-9{
+	width: 100%;
+	height: 196px;
+	position: relative;
+}
+.box2-10{
+	width: 90px;
+	height: 26px;
+	background: url(../images/116.png) no-repeat -144px -130px;
+	left: 220px;
+	top: 40px;
+	position: absolute;
+}
+.box2-11{
+	width: 138px;
+	height: 37px;
+	background: url(../images/116.png) no-repeat 0px -120px;
+	left: 325px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box10{
+	width: 980px;
+	height: 127px;
+	background: url(../images/93.gif) repeat-x;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.box10 .dl1{
+	width: 80px;
+	height: 110px;
+	padding: 10px 0px 0px 20px;
+	float: left;
+}
+.dl1 dt{
+	width: 80px;
+	height: 20px;
+	background: url(../images/85.gif) no-repeat 0px -53px;
+}
+.dl1 dd{
+	margin-top: 15px;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.dl1 dd a{
+	display: block;
+	color: #000000;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.box10 .k1{
+	width: 2px;
+	height: 63px;
+	background: url(../images/85.gif) no-repeat -396px -27px;
+	margin-top: 47px;
+	float: left;
+	margin-left: 40px;
+	margin-right: 10px;
+}
+.box10 .dl2{
+	width: 80px;
+	height: 110px;
+	padding: 10px 0px 0px 20px;
+	float: left;
+}
+.dl2 dt{
+	width: 80px;
+	height: 20px;
+	background: url(../images/85.gif) no-repeat 0px -73px;
+}
+.dl2 dd{
+	margin-top: 15px;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.dl2 dd a{
+	display: block;
+	color: #000000;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.box10 .k2{
+	width: 2px;
+	height: 63px;
+	background: url(../images/85.gif) no-repeat -396px -27px;
+	margin-top: 47px;
+	float: left;
+	margin-left: 40px;
+	margin-right: 10px;
+}
+.box10 .dl3{
+	width: 80px;
+	height: 110px;
+	padding: 10px 0px 0px 20px;
+	float: left;
+}
+.dl3 dt{
+	width: 80px;
+	height: 20px;
+	background: url(../images/85.gif) no-repeat 0px -94px;
+}
+.dl3 dd{
+	margin-top: 15px;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.dl3 dd a{
+	display: block;
+	color: #000000;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.box10 .k3{
+	width: 2px;
+	height: 63px;
+	background: url(../images/85.gif) no-repeat -396px -27px;
+	margin-top: 47px;
+	float: left;
+	margin-left: 40px;
+	margin-right: 10px;
+}
+.box10 .dl4{
+	width: 80px;
+	height: 110px;
+	padding: 10px 0px 0px 20px;
+	float: left;
+}
+.dl4 dt{
+	width: 80px;
+	height: 20px;
+	background: url(../images/85.gif) no-repeat 0px -114px;
+}
+.dl4 dd{
+	margin-top: 15px;
+	font-size: 12px;
+	font-family: "宋体";
+}
+.dl4 dd a{
+	display: block;
+	color: #000000;
+	margin-bottom: 10px;
+	margin-top: 3px;
+}
+
+.box10 .k4{
+	width: 387px;
+	height: 127px;
+	background: url(../images/111.jpg) no-repeat;
+	float: right;
+}
+
+
+.box11{
+	width: 980px;
+	height: 113px;
+	margin: 0 auto;
+}
+.box11 .ul15{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	font-family: "宋体";
+	text-align: center;
+}
+.ul15 a{
+	color: #000000;
+}
+
+.box11 .ul16{
+	width: 100%;
+	font-size: 12px;
+	font-family: "宋体";
+	text-align: center;
+}
+
+.box11 .ul17{
+	width: 100%;
+	text-align: center;
+	height: 47px;
+	padding-top: 10px;
+}
